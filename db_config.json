@@ -1,0 +1,7 @@
+{
+  "SERVER": "localhost\\SQLEXPRESS",
+  "DATABASE": "ArenaMatchDB",
+  "UID": "SyncroUser",
+  "PWD": "Syncro_Secure_2026!",
+  "MONGO_URI": "mongodb://localhost:27017/"
+}
